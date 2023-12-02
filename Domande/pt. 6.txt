@@ -1,0 +1,134 @@
+3 0 1 3 5
+Quali fra queste sono successioni di intervalli (modi) validi per una scala diatonica?
+sT - T - T - sT - T - T - T
+sT - T - T - T - sT - T - T
+T - sT - T - sT - T - T - T
+T - T - T - sT - T - T - sT
+T - T - T - T - T - T - T
+
+1 1 5
+Fissata a 440Hz la frequenza del La4 (cioe' il La della 4^ ottava, con ottave che iniziano e terminano con Do), calcolare quanto valgono, rispettivamente: La2, La3, La5, La7
+220Hz, 330Hz, 550Hz, 770Hz
+110Hz, 220Hz, 880Hz, 3520Hz
+110Hz, 220Hz, 880Hz, 1760Hz
+220Hz, 330Hz, 550Hz, 660Hz
+Non abbiamo sufficienti elementi per calcolarlo
+
+1 3 5
+Fissata a 440Hz la frequenza del La4 (cioe' il La della 4^ ottava, con ottave che iniziano e terminano con Do), calcolare quanto vale il Re#5
+800Hz
+880Hz
+587.3Hz
+622.3Hz
+Non abbiamo sufficienti elementi per calcolarlo
+
+1 3 5
+Fissata a 440Hz la frequenza del La4 (cioe' il La della 4^ ottava, con ottave che iniziano e terminano con Do), calcolare quanto vale il Mib4 (Mi bemolle della 4^ ottava)
+400Hz
+410Hz
+circa 330Hz
+circa 310Hz
+Non abbiamo sufficienti elementi per calcolarlo
+
+1 1 2
+Gli inviluppi sonori hanno tutti 4 transitori nell'ordine ADSR, cioe' Attack, Decay, Sustain, Release
+Vero
+Falso
+
+1 1 5
+Quale di questi strumenti musicali ha un inviluppo con 2 picchi caratteristici in fase di Attack?
+Flauto
+Tromba
+Pianoforte
+Violino
+Blocchi di legno
+
+2 2 4 5
+Quale di questi strumenti musicali e' caratterizzato da un transitore Attack seguito immediatamente da un transitore Release?
+Flauto
+Tromba
+Pianoforte
+Violino
+Blocchi di legno
+
+1 3 4
+Il timbro di un suono e' una proprieta' caratterizzata da...
+Ampiezza del suono
+Frequenza del suono
+Fase del suono
+Spettro delle frequenze
+
+1 2 5
+Nello spettro delle frequenze, la frequenza che contribuisce maggiormente (quella con l'ampiezza maggiore) caratterizza...
+Il timbro dello strumento
+Il volume del suono
+La nota suonata
+L'altezza del suono
+La spazializzazione del suono
+
+1 0 5
+Nello spettro delle frequenze, il contributo e il numero delle varie frequenze  caratterizza...
+Il timbro dello strumento
+Il volume del suono
+La nota suonata
+L'altezza del suono
+La spazializzazione del suono
+
+1 0 2
+E' possibile che due strumenti musicali che suonino la stessa nota abbiano spettri delle frequenze diverse
+Vero
+Falso
+
+1 2 6
+Quali fra questi rumori sono caratterizzati da valori d'ampiezza che seguono una legge di probabilita' uniforme?
+Rumore rosa
+Rumore marrone
+Rumore bianco
+Rumore grigio
+Rumore viola
+Rumore blu
+
+2 0 1 6
+Quali fra questi rumori sono caratterizzati da valori d'ampiezza che decrescono per ogni ottava?
+Rumore rosa
+Rumore marrone
+Rumore bianco
+Rumore grigio
+Rumore viola
+Rumore blu
+
+2 4 5 6
+Quali fra questi rumori sono caratterizzati da valori d'ampiezza che crescono per ogni ottava?
+Rumore rosa
+Rumore marrone
+Rumore bianco
+Rumore grigio
+Rumore viola
+Rumore blu
+
+2 0 1 6
+Quali fra questi rumori ricordano il suono della pioggia o di una cascata?
+Rumore rosa
+Rumore marrone
+Rumore bianco
+Rumore grigio
+Rumore viola
+Rumore blu
+
+1 3 6
+Quali fra questi rumori segue un andamento simile a quello delle curve isofoniche?
+Rumore rosa
+Rumore marrone
+Rumore bianco
+Rumore grigio
+Rumore viola
+Rumore blu
+
+1 4 6
+Quali fra questi rumori ricorda maggiormente il fischio di una pentola a vapore?
+Rumore rosa
+Rumore marrone
+Rumore bianco
+Rumore grigio
+Rumore viola
+Rumore blu

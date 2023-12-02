@@ -1,0 +1,102 @@
+2 1 2 5
+L'errore di quantizzazione e' dovuto a...
+Scelta fra quantizzazione uniforme e non uniforme
+Grandezza dei quanti
+Relazioni di tipo molti a uno
+Alla codifica scelta
+Al numero di bit di parita'
+
+1 1 2
+La quantizzazione logaritmica e' l'unico tipo di quantizzazione non uniforme
+Vero
+Falso
+
+1 3 5
+La gamma dinamica e'...
+La dimensione media dei quanti
+La dimensione massima dei quanti
+La dimensione minima dei quanti
+La dimensione del range che si vuole rappresentare
+Nessuna delle precedenti
+
+2 6 7 8
+L'errore max nella quantizzazione uniforme e' pari a...
+La gamma dinamica
+Meta' della gamma dinamica
+La media della gamma dinamica
+La gamma dinamica diviso il numero di quanti
+La grandezza massima dei quanti
+La grandezza media dei quanti
+La grandezza di un quanto diviso 2
+La gamma dinamica diviso due volte il numero dei quanti
+
+1 2 3
+Quale di queste affermazioni e' vera
+Il SQNR e' la versione quantizzata del SNR
+Il SNR si applica nel caso dell'audio digitale, mentre il SQNR nel caso dell'audio analogico
+Il SNR si applica nel caso dell'audio analogico, mentre il SQNR nel caso dell'audio digitale
+
+1 1 4
+Nella formula per calcolare il SQNR, la N indica...
+Il Noise
+Il numero di bit nella codifica
+Il numero di quanti
+Il numero di campioni
+
+1 2 5
+Dato N=16, quanto vale il SQNR?
+Non abbiamo sufficienti dati per calcolarlo
+90
+96
+120
+144
+
+1 1 5
+Dato un SQNR pari a 72, quanto vale N?
+Non abbiamo sufficienti dati per calcolarlo
+12
+13
+14
+15
+
+1 1 6
+SQNR dovrebbe avere almeno valori...
+> 20dB
+> 40dB
+> 60dB
+> 80dB
+> 100dB
+Dipende dalla codifica
+
+1 2 6
+Valori sufficientemente buoni di SQNR si hanno per...
+> 20dB
+> 40dB
+> 60dB
+> 80dB
+> 100dB
+Dipende dalla codifica
+
+1 3 6
+I dispositivi digitali hanno valori di SQNR...
+> 20dB
+> 40dB
+> 60dB
+> 80dB
+> 100dB
+Dipende dalla codifica
+
+1 0 5
+Dato un tasso di campionamento pari a 44.1kHz e una PCM a 16bit, quanti byte servono per memorizzare un audio mono di 10 secondi?
+Circa 880KB
+Circa 7MB
+Circa 7KB
+Circa 5MB
+Circa 660KB
+
+3 1 2 3 4
+I bit di parita' permettono di...
+Con configurazioni semplici, di rilevare un numero pari di errori
+Con configurazioni semplici, di rilevare un numero dispari di errori
+Tramite configurazioni complesse, di correggere gli errori
+Tramite configurazioni complesse, di individuare la posizione degli errori

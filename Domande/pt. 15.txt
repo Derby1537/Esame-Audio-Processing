@@ -1,0 +1,85 @@
+1 3 4
+La definizione migliore di "Codifica trasparente" e':
+Una codifica da cui traspare l'informazione
+Una codifica lossless
+Una codifica digitale perfettamente uguale all'analogica
+Una codifica compressa indistinguibile da quella non compressa
+
+1 3 5
+Chi fra questi personaggi e' noto come "il padre delle codifiche di compressione di tipo percettivo"?
+Shannon
+Bell
+Nyquist
+Johnston
+Fletcher
+
+1 4 7
+Il limite per ottenere la codifica trasparente calcolato da J.D. Johnston e' pari a...
+La frequenza di Nyquist
+La frequenza fondamentale
+La frequenza fondamentale * 2
+La frequenza fantasma
+Circa 2.1 bit / campione
+Circa 8 bit / campione
+120 dB
+
+1 0 2
+Dato un tasso di campionamento pari a 22kHz e un bitrate (compresso) di 128kbps, dire se la codifica sia o meno trasparente.
+Vero
+Falso
+
+1 5 6
+Qual e' lo scopo principale della tecnica Compansion?
+Compensare i bit persi durante la compressione
+Rimuovere il rumore
+Espandere il range dinamico
+Comprimere il segnale
+Applicare una compressione lossy come se fosse lossless
+Comprimere ed espandere il range dinamico
+
+4 2 5 6 7 9
+Quali sono le 4 tecniche principali su cui si basa la compressione di tipo percettivo?
+Compressione lossless
+Compressione lossy
+Codifica di Huffman
+Codifica trasparente
+Codifica fantasma
+Codifica a blocchi
+Codifica delle frequenze
+Codifica per sotto-bande
+Ri-quantizzazione
+
+2 3 4 6
+Come si puo' risolvere il problema dei pre-echi?
+Con dei filtri anti-eco
+Compressione lossless
+Echi fantasma
+Ridurre la durata dei blocchi
+Individuando e isolando i rumori impulsivi
+Compressione lossy
+
+1 4 5
+Quale trasformata e' piu' efficiente?
+FT
+FFT
+SFT
+DFT
+DCT
+
+3 0 2 3 4
+Quali affermazioni su QMF sono vere?
+E' un banco di filtri che divide il range di frequenze in alto e basso
+E' possibile applicare solo un banco di filtri QMF per volta
+E' possibile applicare piu' di un banco di filtri QMF per volta
+Le due bande di QMF devono necessariamente avere sempre e in ogni caso la stessa grandezza
+
+5 0 2 4 5 7 8
+Indicare le qualita' della codifica di Huffman
+Codifica ottimale che si avvicina al limite di Shannon
+Codifica efficiente con codici a lunghezza fissa
+Codifica efficiente con codici a lunghezza variabile
+Compressione Lossy, ma non percepibile (di fatto Lossless)
+Compressione Lossless
+Assegna agli elementi piu' frequenti le codeword piu' corte
+Assegna agli elementi piu' frequenti le codeword piu' lunghe
+Codifica con codici senza prefissi

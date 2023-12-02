@@ -1,0 +1,89 @@
+3 0 1 2 3
+Lo standard MPEG e' relativo a...
+Video
+Audio
+Altro contenuto multimediale (ad esempio il VR)
+
+1 0 3
+MPEG-4 e' uno standard per...
+Codifica
+Interfaccia di scambio
+Archiviazione
+
+1 2 3
+MPEG-7 e' uno standard per...
+Codifica
+Interfaccia di scambio
+Archiviazione
+
+1 0 3
+MPEG-21 e' uno standard per...
+Interfaccia di scambio
+Codifica
+Archiviazione
+
+1 1 2
+Gli standard MPEG garantiscono la retrocompatibilita'. Questo significa che e' possibile decodificare con MPEG-2 qualcosa codificato con MPEG-4
+Vero
+Falso
+
+1 1 2
+Su quali parti degli standard MPEG potrebbe essere necessario pagare delle royalties?
+Obbligatorie
+Libere
+
+1 0 4
+MP3 e' un formato relativo principalmente a...
+MPEG-1
+MPEG-2
+MPEG-3
+MPEG-4
+
+3 2 5 6 7
+Quali di queste affermazoni sul layer I di MPEG-1 sono vere:
+Conta 12 bande
+Conta 26 bande
+Conta 32 bande
+Le bande non sono uniformi (come le bande critiche)
+Le bande sono uniformi, con grandezza assoluta
+Le bande sono uniformi, con grandezza relativa
+Ogni blocco conta 384 campioni (32 bande x 12 campioni)
+
+1 0 2
+Il Layer I di MPEG-1 applica una Codifica per Bande
+Vero
+Falso
+
+4 0 3 5 6 7
+Quali sono i miglioramenti di MPEG-1 Layer II rispetto a Layer I?
+Risoluzione della FFT raddoppiata
+Risoluzione della FFT triplicata
+Tassi di campionamenti aggiuntivi che valgono il doppio rispetto a prima
+Tassi di campionamenti aggiuntivi che valgono la meta' rispetto a prima
+Blocchi grandi il doppio
+Blocchi grandi il triplo
+Classi di riquantizzazione aggiuntive
+
+3 2 4 6 7
+Quali sono i miglioramenti di MPEG-1 Layer III rispetto a Layer II?
+DFT al posto di FFT
+DCT al posto di FFT
+MDCT al posto di FFT
+Quantizzazione uniforme
+Quantizzazione non uniforme
+Fattori di scala multipli per banda
+Codifica di Huffman
+
+1 3 4
+Quali fra questi formati audio avanzati e' il migliore per applicazioni di archiviazione?
+AAC
+Dolby AC-3
+WMA
+FLAC
+
+1 2 4
+Quali fra questi formati audio avanzati ha prestazioni migliori sulla musica e peggiori sulla voce, rispetto a MPEG?
+AAC
+Dolby AC-3
+WMA
+FLAC

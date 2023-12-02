@@ -1,0 +1,135 @@
+1 0 2
+Suono e Audio sono sinonimi. Utilizziamo il termine "Suono" nel contesto di onde meccaniche, mentre quello "Audio" nel contesto di onde elettromagnetiche.
+Vero
+Falso
+
+1 1 2
+Il suono e' un insieme di onde meccaniche longitudinali, generato da una sorgente in vibrazione che propaga l'energia in un mezzo o nel vuoto modificando la pressione locale delle particelle che costituiscono il mezzo, o attraverso onde elettromagnetiche se nel vuoto.
+Vero
+Falso
+
+1 0 2
+L'Audio e' un segnale elettromagnetico che si puo' trasmettere nel vuoto.
+Vero
+Falso
+
+1 1 2
+Quale delle due affermazioni e' vera?
+Il suono permette la trasmissione dell'audio
+L'audio permette la trasmissione del suono
+
+1 0 2
+Quale delle due affermazioni e' vera? Nella storia degli strumenti di registrazione e riproduzione musicale si e' imparato...
+prima a scrivere, poi a leggere
+ovviamente prima a leggere, poi a scrivere
+
+1 0 4
+Quale tra le seguenti affermazioni e' corretta?
+L'onda e' spostamento di energia cui non e' associato spostamento di materia
+L'onda e' spostamento di materia cui non e' associato spostamento di energia
+L'onda e' spostamento di energia cui e' associato spostamento di materia
+L'onda e' spostamento di materia cui e' associato spostamento di energia
+
+1 0 5
+La definizione di "onda meccanica" e' relativa a...
+Mezzo di propagazione
+Forma d'onda
+Direzione di spostamento dell'energia
+Direzione di oscillazione delle particelle
+Periodicita'
+
+1 5 6
+La definizione di "onda trasversale" e' relativa a...
+Mezzo di propagazione
+Forma d'onda
+Solo direzione di spostamento dell'energia
+Solo direzione di oscillazione delle particelle
+Periodicita'
+Nessuna delle precedenti
+
+1 1 6
+La definizione di "onda sinusoidale" e' relativa a...
+Mezzo di propagazione
+Forma d'onda
+Solo direzione di spostamento dell'energia
+Solo direzione di oscillazione delle particelle
+Periodicita'
+Nessuna delle precedenti
+
+1 4 6
+La definizione di "onda che si ripete ogni T secondi" e' relativa a...
+Mezzo di propagazione
+Forma d'onda
+Solo direzione di spostamento dell'energia
+Solo direzione di oscillazione delle particelle
+Periodicita'
+Nessuna delle precedenti
+
+3 1 3 4 6
+Quali sono i 3 elementi necessari per il verificarsi della sensazione sonora? [selezione multipla]
+Strumento musicale
+Mezzo di propagazione
+Silenzio
+Un rilevatore sonoro (ad es. l'orecchio)
+Un corpo vibrante
+Una cassa audio
+
+3 0 1 2 5
+L'ampiezza di un'onda e' associata a... [Scelta multipla]
+Volume del suono
+Energia trasportata dall'onda
+Intensita' del suono
+Altezza del suono
+Spazializzazione del suono
+
+1 4 5
+La fase di un'onda e' associata a... [Scelta multipla]
+Volume del suono
+Energia trasportata dall'onda
+Intensita' del suono
+Altezza del suono
+Spazializzazione del suono
+
+1 3 5
+La frequenza di un'onda e' associata a... [Scelta multipla]
+Volume del suono
+Energia trasportata dall'onda
+Intensita' del suono
+Altezza del suono
+Spazializzazione del suono
+
+2 2 4 5
+Un'onda con frequenza 30Hz... [Scelta multipla]
+Si ripete 30 volte al minuto
+Si ripete 30 volte
+Si ripete 30 volte al secondo
+Ha un periodo pari a 0.33 s
+Ha un periodo pari a 0.033 s
+
+1 0 4
+L'unita' di misura della lunghezza d'onda e'...
+m
+mm
+nm
+W
+
+1 0 4
+Data l'equazione sinusoidale y(t) = 3 sin (12*pi*t + 4), l'ampiezza vale...
+3
+12
+6
+4
+
+1 2 4
+Data l'equazione sinusoidale y(t) = 3 sin (12*pi*t + 4), la frequenza vale...
+3
+12
+6
+4
+
+1 3 4
+Data l'equazione sinusoidale y(t) = 3 sin (12*pi*t + 4), la fase vale...
+3
+12
+6
+4

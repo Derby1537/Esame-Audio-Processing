@@ -1,0 +1,156 @@
+1 2 4
+Qual e' il significato dell'acronimo MIDI?
+Media Interchange Data Interface
+Market Independent Data Interface
+Musical Instrument Digital Interface
+Media Independent Digital Interface
+
+1 2 5
+Il MIDI nasce...
+negli anni '60
+negli anni '70
+negli anni '80
+negli anni '90
+in epoca recentissima
+
+1 1 4
+Quale fra questi e' lo scopo principale per cui e' nato il MIDI?
+Fornire un formato che fosse piu' economico degli altri
+Stabilire un'interfaccia comune fra dispositivi eterogenei
+Definire un protocollo che fosse piu' efficiente degli altri
+Standardizzare la qualita' timbrica dei moduli di sintesi
+
+1 1 7
+Quanti Canali sono definibili nel MIDI?
+8
+16
+24
+32
+64
+128
+N
+
+1 6 7
+Quante Tracce sono definibili nel MIDI?
+8
+16
+24
+32
+64
+128
+N
+
+1 5 7
+Quante Patch sono definibili nel MIDI?
+8
+16
+24
+32
+64
+128
+N
+
+1 6 7
+Quanti Banchi sono definibili nel MIDI?
+8
+16
+24
+32
+64
+128
+N
+
+1 2 5
+Quale fra i seguenti indica il livello di astrazione per rappresentare le varie voci di un brano?
+Sequencer
+Canali
+Tracce
+Patch
+Banchi
+
+1 1 5
+Quale fra i seguenti indica il livello di astrazione per implementare il concetto di strumento?
+Sequencer
+Canali
+Tracce
+Patch
+Banchi
+
+1 2 5
+Quale fra i seguenti indica il livello di astrazione per implementare il concetto di partiture e mixing?
+Sequencer
+Canali
+Tracce
+Patch
+Banchi
+
+1 3 5
+Quale fra i seguenti indica il livello di astrazione per implementare il concetto di timbro?
+Sequencer
+Canali
+Tracce
+Patch
+Banchi
+
+1 1 4
+La relazione fra Canali-e-Tracce e'...
+1-1
+1-N
+N-1
+N-N
+
+1 2 4
+La relazione fra Canali-e-Patch e'...
+1-1
+1-N
+N-1
+N-N
+
+1 3 6
+Calcolare quanto dura 1 tick essendo BPM=240 e PPQ=48
+5 secondi
+0.5 secondi
+0.05 secondi
+0.005 secondi
+0.0005 secondi
+Non abbiamo sufficienti dati
+
+1 1 5
+Se i primi 4 bit, esclusi quelli di sincronizzazione, di un messaggio MIDI sono uguali a 1001, allora si avra' un...
+System Message
+Channel Message - Note On
+Channel Message - Note Off
+Channel Message - Pitch Bend Change
+Nessuno dei precedenti
+
+1 2 5
+Se i primi 4 bit, esclusi quelli di sincronizzazione, di un messaggio MIDI sono uguali a 1100, allora si avra' un...
+System Message
+Channel Message - Note On
+Channel Message - Program Change
+Channel Message - Channel Pressure
+Nessuno dei precedenti
+
+1 0 5
+Se i primi 4 bit, esclusi quelli di sincronizzazione, di un messaggio MIDI sono uguali a 1111, allora si avra' un...
+System Message
+Channel Message - Note On
+Channel Message - Pitch Bend Change
+Channel Message - Note Off
+Nessuno dei precedenti
+
+1 4 5
+Se i primi 4 bit, esclusi quelli di sincronizzazione, di un messaggio MIDI sono uguali a 0111, allora si avra' un...
+System Message
+Channel Message - Note On
+Channel Message - Pitch Bend Change
+Channel Message - Channel Pressure
+Nessuno dei precedenti
+
+1 4 5
+I SysEx...
+Gestiscono l'attivazione dei sistemi MIDI
+Gestiscono l'attivazione esclusiva di un device
+Gestiscono l'esclusione di uno o piu' device
+Sono messaggi non ancora definiti (infatti c'e' spazio per altri 5)
+Sono utilizzati dai costruttori per specifiche proprietarie

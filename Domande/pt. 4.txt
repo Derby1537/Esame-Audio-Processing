@@ -1,0 +1,101 @@
+1 2 3
+Se un'onda durante la propagazione subisce una deviazione che la "spezza" in piu' onde, allora si e' verificata la:
+Rifrazione
+Riflessione
+Diffrazione
+
+1 2 5
+Osservando la Figura 1, dove ci aspettiamo che sia maggiore la temperatura?
+In alto
+Al centro
+In basso
+Ovunque
+Non abbiamo abbastanza elementi per rispondere
+
+1 0 4
+Osservando la Figura 1, quale ci aspettiamo che sia il verso di propagazione finale delle onde sonore?
+In alto
+Al centro
+In basso
+Non abbiamo abbastanza elementi per rispondere
+
+1 1 3
+Osservando la Figura 1, supponendo che a destra ci sia un ascoltatore:
+sara' piu' facile percepire il suono
+sara' piu' difficile percepire il suono
+non ci saranno variazioni nella percezione del suono
+
+2 1 4 6
+Affinche' si verifichi la riflessione: [Scelta multipla]
+La lunghezza d'onda dev'essere piu' grande dell'ostacolo, per garantire sufficiente energia per la riflessione
+La lunghezza d'onda dev'essere piu' piccola dell'ostacolo, e si perdera' energia dopo la riflessione
+Deve verificarsi un cambio di mezzo di propagazione
+Deve verificarsi un cambio di temperatura
+Per ridurre la riflessione si possono utilizzare materiali con alto coefficiente di comprimibilita'
+Per ridurre la riflessione si possono utilizzare materiali con basso coefficiente di comprimibilita'
+
+1 3 6
+Quanto tempo impiegherebbe un SONAR ad individuare nell'acqua di mare un oggetto distante 2km? (si assuma v=1500 m/s e pressione 1Atm)
+Circa 4 secondi
+Circa 3.5 secondi
+Circa 3 secondi
+Circa 2.5 secondi
+Circa 2 secondi
+Non abbiamo sufficienti elementi per rispondere
+
+1 3 6
+Sapendo che un dispositivo nell'aria a 1Atm e 20°C (v=343,85 m/s) emette un suono al tempo t e registra lo stesso suono tornare indietro dopo 10 secondi, calcolare la distanza dell'oggetto che ha riflesso il suono all'indietro.
+3622.72 m
+3438.5 m
+2498.1 m
+1719.25 m
+1718.25 m
+Non abbiamo sufficienti elementi per rispondere
+
+1 2 7
+[Doppio calcolo] Sapendo che un SONAR impiega 3 secondi a rilevare un ostacolo  a distanza 500m nell'aria (a 1Atm), a che temperatura e' l'aria?
+10°C
+5°C
+2.5°C
+0°C
+-2.5°C
+-5°C
+-10°C
+
+1 3 5
+Qual e' la distanza minima affinche' si possa verificare l'eco (nell'aria a 20°C e 1Atm)?
+20 m
+19 m
+18 m
+17 m
+16 m
+
+1 1 5
+Qual e' la distanza minima affinche' si possa verificare l'eco (nell'acqua, assumendo v=1500 m/s e 1Atm)?
+100 m
+75 m
+50 m
+25 m
+17 m
+
+1 2 5
+Qual e' la velocita' che dovrebbe avere un suono nell'aria a 1Atm, affinche' sia vero che l'eco si percepisca con distanza minima pari ad almeno 25 m?
+1000 m/s
+750 m/s
+500 m/s
+250 m/s
+100 m/s
+
+1 0 2
+Effetto Doppler: quando un'ambulanza ci viene incontro, le sue sirene vengono udite...
+ad una frequenza piu' alta
+ad una frequenza piu' bassa
+
+2 1 4 6
+Il bang supersonico e'...
+Dovuto ai potentissimi motori dei jet supersonici
+Dovuto all'accumularsi delle onde sonore in corrispondenza della sorgente in movimento
+Percepibile prima che la sorgente superi l'ascoltatore
+Percepibile nel momento in cui la sorgente supera l'ascoltatore
+Percepibile dopo che la sorgente ha superato l'ascoltatore
+Dovuto alla rottura del continuum-spazio-temporale

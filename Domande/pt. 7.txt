@@ -1,0 +1,150 @@
+2 2 5 6
+Quali sono i funzionamenti principali legati all'udito individuati dagli psicofisici?
+Funzionamento adattivo
+Funzionamento localizzatore
+Funzionamento cognitivo
+Funzionamento creativo
+Funzionamento spazializzatore
+Funzionamento fisiologico
+
+5 0 1 2 3 4 5
+Quali fra questi sono i compiti del sistema uditivo?
+Comprensione del linguaggio
+Riconoscimento del tipo di sorgente sonora
+Ascolto musicale
+Riconoscimento dell'ambiente circostante
+Localizzazione delle sorgenti sonore
+
+1 1 4
+Per quanto riguarda l'udito, dal punto di vista scientifico degli psicofisici, quale di questi funzionamenti non e' ancora esattamente chiaro?
+Funzionamento creativo
+Funzionamento cognitivo
+Funzionamento adattivo
+Funzionamento fisiologico
+
+1 2 10
+Quali fra questi elementi dell'orecchio segna il confine fra orecchio esterno e orecchio medio?
+Padiglione auricolare
+Condotto uditivo
+Timpano
+Martello
+Incudine
+Staffa
+Tromba di Eustachio
+Muscolo Stapedio
+Coclea
+Labirinto
+
+1 7 10
+Quali fra questi elementi dell'orecchio rappresenta un sistema di protezione dai suoni ad altissimo volume?
+Padiglione auricolare
+Condotto uditivo
+Timpano
+Martello
+Incudine
+Staffa
+Tromba di Eustachio
+Muscolo Stapedio
+Coclea
+Labirinto
+
+1 6 10
+Quali fra questi elementi dell'orecchio serve per bilanciare la pressione interna con quella esterna?
+Padiglione auricolare
+Condotto uditivo
+Timpano
+Martello
+Incudine
+Staffa
+Tromba di Eustachio
+Muscolo Stapedio
+Coclea
+Labirinto
+
+1 9 10
+Quali fra questi elementi dell'orecchio serve per restare in equilibrio?
+Padiglione auricolare
+Condotto uditivo
+Timpano
+Martello
+Incudine
+Staffa
+Tromba di Eustachio
+Muscolo Stapedio
+Coclea
+Labirinto
+
+1 8 10
+Quali fra questi elementi dell'orecchio serve a trasformare i segnali sonori in nervosi?
+Padiglione auricolare
+Condotto uditivo
+Timpano
+Martello
+Incudine
+Staffa
+Tromba di Eustachio
+Muscolo Stapedio
+Coclea
+Labirinto
+
+3 2 3 6 8
+Martello, Incudine e Staffa sono...
+Un sistema rigido e solidale per trasmettere le vibrazioni dall'orecchio esterno a quello interno
+Tre parti molli attraverso cui la vibrazione viene amplificata
+Un sistema di leve per trasmettere le vibrazioni dall'orecchio esterno a quello interno
+Un sistema che permette di amplificare le  piccole vibrazioni
+Un sistema per proteggere l'orecchio da suoni ad alta intensita'
+Situati nell'orecchio esterno
+Situati nell'orecchio medio
+Situati nell'orecchio interno
+
+2 0 3 5
+Secondo il dlgs 81/2008, al di sotto degli 80dB...
+Non c'e' obbligo di utilizzare i DPI (che non sono neanche consigliati)
+I DPI sono consigliati
+I DPI sono obbligatori
+L'informazione e la formazione sono consigliate ma non obbligatorie
+C'e' obbligo di informazione e formazione
+
+2 1 4 5
+Secondo il dlgs 81/2008, fra 80 e 85 dB...
+Non c'e' obbligo di utilizzare i DPI (che non sono neanche consigliati)
+I DPI sono consigliati
+I DPI sono obbligatori
+L'informazione e la formazione sono consigliate ma non obbligatorie
+C'e' obbligo di informazione e formazione
+
+2 2 4 5
+Secondo il dlgs 81/2008, oltre 85 dB...
+Non c'e' obbligo di utilizzare i DPI (che non sono neanche consigliati)
+I DPI sono consigliati
+I DPI sono obbligatori
+L'informazione e la formazione sono consigliate ma non obbligatorie
+C'e' obbligo di informazione e formazione
+
+2 0 2 5
+Secondo il dlgs 81/2008, il limite massimo di 87dB si riferisce a...
+Una condizione in cui non e' piu' consentito lavorare
+I dB percepiti senza DPI
+I dB percepiti se muniti di DPI
+Un limite vicinissimo al limite massimo di 85dB oltre il quale adottare i DPC
+Il limite dopo il quale i DPC diventano da consigliati a obbligatori
+
+8 0 2 4 5 7 9 11 15 16
+Il Quizzone finale: quali fra queste affermazioni sulla coclea sono vere?
+La staffa e' in contatto con la finestra ovale
+La staffa e' in contatto con la finestra rotonda
+La vibrazione entra nella coclea dal canale superiore (rampa vestibulare)
+La vibrazione entra nella coclea dal canale inferiore (rampa timpanica)
+La coclea e' piena di un liquido
+Nella coclea, i canali superiore, inferiore e mediano sono collegati
+La vibrazione che entra nella coclea si esaurisce al suo interno dopo che viene recepita
+La membrana tettoria copre la membrana basilare
+La membrana basilare e' piu' spessa vicino all'orecchio medio
+La  membrana basilare e' piu' spessa vicino l'elicotrema (il centro della chiocciola)
+Nell'organo di Corti ci sono circa 2.000 ciglia
+Nell'organo di Corti ci sono circa 20.000 ciglia
+Nell'organo di Corti ci sono circa 200.000 ciglia
+Nell'organo di Corti ci sono circa 2.000.000 di ciglia
+Le basse frequenze sono percepite meglio vicino all'orecchio medio
+Le basse frequenze sono percepite meglio vicino l'elicotrema (il centro della chiocciola)

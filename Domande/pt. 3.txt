@@ -1,0 +1,112 @@
+1 0 2
+La legge dell'inverso del quadrato afferma che...
+L'intensita' sonora varia proporzionalmente al quadrato della distanza dalla sorgente
+La distanza raggiungibile dall'onda varia proporzionalmente al quadrato dell'intensita' sonora
+
+1 3 9
+Un suono viene percepito con intensita' 100 W/m^2 a distanza 1 metro. Quale sara' la sua intensita' percepita a distanza 5 metri?
+100 W/m^2
+25 W/m^2
+8 W/m^2
+4 W/m^2
+0.25 W/m^2
+0.8 W/m^2
+0.04 W/m^2
+0.4 W/m^2
+E' gia' troppo lontano per essere percepito
+
+1 1 9
+Un suono viene percepito con intensita' 100 W/m^2 a distanza 2 metri. Quale sara' la sua intensita' percepita a distanza 4 metri?
+100 W/m^2
+25 W/m^2
+8 W/m^2
+4 W/m^2
+0.25 W/m^2
+0.8 W/m^2
+0.04 W/m^2
+0.4 W/m^2
+E' gia' troppo lontano per essere percepito
+
+1 1 9
+Un suono viene percepito con intensita' 100 W/m^2 a distanza 9 metri. Quale sara' la sua intensita' percepita a distanza 3 metri?
+1000 W/m^2
+900 W/m^2
+300 W/m^2
+90 W/m^2
+30 W/m^2
+11.11 W/m^2
+9 W/m^2
+3 W/m^2
+E' gia' troppo lontano per essere percepito
+
+1 5 6
+La velocita' del suono nell'aria e'...
+343.85 m/s
+521.22 m/s
+12.94 m/s
+440 Hz
+20 Pa
+Non abbiamo sufficienti elementi per rispondere
+
+1 2 6
+A livello del mare, a che temperatura il suono viaggia nell'aria se ha una velocita' di a 331.45 m/s?
+20°C
+10°C
+0°C
+-10°C
+-20°C
+Non abbiamo sufficienti elementi per rispondere
+
+1 2 6
+Calcolare la velocita' del suono nell'aria a 35°C (a 1 Atmosfera)
+373.11 m/s
+363.24 m/s
+353.15 m/s
+343.85 m/s
+331.45 m/s
+Non abbiamo sufficienti elementi per rispondere
+
+1 3 6
+Calcolare la velocita' del suono nell'aria a -20°C (a livello del mare)
+363.24 m/s
+343.85 m/s
+331.45 m/s
+319.05 m/s
+315.64 m/s
+Non abbiamo sufficienti elementi per rispondere
+
+1 4 7
+Quale potrebbe essere un limite minimo di velocita' per un suono che viaggia nell'aria (a 1Atm)?
+0 m/s
+100 m/s
+110.20 m/s
+145 m/s
+162 m/s
+300 m/s
+Non abbiamo sufficienti elementi per rispondere
+
+1 2 4
+A che velocita' viaggia l'audio trasmesso come onda elettromagnetica nello spazio?
+343.85 m/s
+Considerato che nello spazio si raggiungono i -270°C, la velocita' dell'audio calcolabile e' 164.05 m/s
+Alla velocita' della luce (300.000 km/s)
+L'audio non si puo' trasmettere nello spazio perche' non c'e' nessun mezzo di trasmissione
+
+3 2 3 4 5
+Quali fattori possono influenzare la velocita' del suono nell'acqua?
+Quantita' di acqua nel contenitore
+Temperatura dell'aria
+Temperatura dell'acquaMorto
+Pressione atmosferica dovuta alla profondita'
+La percentuale di salinita'
+
+2 5 6 8
+Cosa possiamo dire in merito alla velocita' del suono nell'acqua?
+Aumenta costantemente con l'aumentare della profondita' (perche' aumenta la pressione)
+Diminuisce costantemente con l'aumentare della profondita' (perche' diminuisce la temperatura)
+E' sempre variabile sia in positivo che in negativo con l'aumentare della profondita'
+E' piu' veloce in superficie
+E' piu' veloce a medie profondita' (non molto in basso, ma neanche in superficie)
+E' piu' veloce ad altissime profondita' (molto in basso)
+E' piu' veloce nel Mar Morto
+E' piu' veloce nel Lago di Garda

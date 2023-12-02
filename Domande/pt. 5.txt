@@ -1,0 +1,84 @@
+1 0 6
+Uno spettro di un tono puro e'...
+discreto
+continuo
+limitato
+illimitato
+puro
+non esiste
+
+1 0 6
+Uno spettro di un tono complesso periodico e'...
+discreto
+continuo
+limitato
+illimitato
+puro
+non esiste
+
+1 1 6
+Uno spettro di un tono complesso non periodico e'...
+discreto
+continuo
+limitato
+illimitato
+puro
+non esiste
+
+1 1 2
+Nell'analisi armonica, la fase delle armoniche puo' generare spettri diversi
+Vero
+Falso
+
+1 1 2
+Il teorema di Fourier recita che "Qualunque funzione periodica di periodo T (o frequenza fondamentale f=1/T) puo' essere rappresentata mediante una somma di onde sinusoidali e/o cosinusoidali di opportuna ampiezza e di frequenza multipla della frequenza fondamentale"
+Vero
+Falso
+
+4 2 3 4 6 8
+Quali fra queste sono "Condizioni di Dirichlet"? [risposte multiple]
+f deve essere un segnale periodico
+f deve essere scomponibile in segnali piu' semplici
+f deve avere un numero finito di estremi in un qualunque intervallo limitato
+f puo' essere continua a tratti
+f puo' essere una funzione di Cantor
+f non puo' essere una funzione di Cantor
+f deve essere assolutamente integrabile in un intervallo pari al periodo
+f deve essere integrabile in un intervallo pari al periodo
+
+3 1 4 5 6
+Quali di queste frasi sulle onda quadre sono vere?
+Le onde sono sempre arrotondate, non possono esistere onde quadre
+Ha la stessa frequenza dell'armonica fondamentale
+E' composta da un numero di armoniche (pari e dispari) tendente a infinito
+E' composta dalle sole armoniche pari, tendenti a infinito
+E' composta dalle sole armoniche dispari, tendenti a infinito
+E' un'onda simmetrica
+
+4 0 2 3 4 5
+Quali fra queste definizioni su Serie e Trasformata di Fourier sono vere?
+La Trasformata permette di trovare le componenti di frequenza di un segnale
+La Serie si puo' utilizzare su segnali non periodici
+La Serie si puo' utilizzare su segnali periodici
+La Trasformata si puo' utilizzare su segnali non periodici
+La Trasformata si puo' utilizzare su segnali periodici
+
+1 2 3
+Nella pratica, quale trasformata si preferisce utilizzare?
+La Trasformata di Fourier (FT)
+La Trasformata Veloce di Fourier (FFT)
+La Trasformata Discreta di Fourier o del Coseno (DCT)
+
+1 2 4
+L'operazione inversa dell'analisi armonica si chiama...
+Analisi inversa
+Antianalisi
+Sintesi
+Composizione
+
+1 0 4
+Sonogrammi e spettrogrammi permettono di...
+Rappresentare in un unico grafico (bidimensionale o tridimensionale) tempo, frequenza e ampiezza
+Mostrare come si propaga il suono al variare del tempo
+Colorare lo spettro di Fourier (ne migliora la leggibilita')
+Rappresentare in un unico grafico (bidimensionale o tridimensionale) il risultato di una trasformata di Fourier su un segnale non periodico

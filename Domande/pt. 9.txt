@@ -1,0 +1,139 @@
+1 3 4
+Il principale determinante fisico del timbro e'...
+La frequenza fondamentale
+La frequenza di Nyquist
+L'armonica fondamentale
+Il contenuto armonico
+
+2 1 2 4
+Indicare le affermazioni vere:
+Il tremolo e' una variazione periodica della frequenza di una nota
+Il tremolo e' una variazione periodica dell'ampiezza di una nota
+Il vibrato e' una variazione periodica dell'altezza di una nota
+Il vibrato e' una variazione periodica dell'ampiezza di una nota
+
+1 1 2
+Facendo riferimento alla Figura 4, indicare l'affermazione vera:
+La traccia A rappresenta un Vibrato, mentre la traccia B rappresenta un Tremolo
+La traccia A rappresenta un Tremolo, mentre la traccia B rappresenta un Vibrato
+
+1 7 9
+La larghezza di banda critica di un segnale da 350Hz e'...
+Piu' di 5000Hz
+5000Hz
+2500Hz
+1000Hz
+750Hz
+500Hz
+250Hz
+100Hz
+0Hz
+
+1 6 9
+La larghezza di banda critica di un segnale da 1250Hz e'...
+Piu' di 5000Hz
+5000Hz
+2500Hz
+1000Hz
+750Hz
+500Hz
+250Hz
+100Hz
+0Hz
+
+1 0 9
+La larghezza di banda critica di un segnale da 15kHz e'...
+Piu' di 5000Hz
+5000Hz
+2500Hz
+1000Hz
+750Hz
+500Hz
+250Hz
+100Hz
+0Hz
+
+1 4 6
+Quante sono le bande critiche definite nella Scala di Bark mostrata a lezione?
+14
+21
+22
+23
+24
+25
+
+1 0 3
+Facendo riferimento alla Figura 5, quali sono le bande piu' piccole?
+Quelle a sinistra del grafico
+Quelle a destra nel grafico
+Bel tentativo! Tutte le bande di Bark hanno la stessa grandezza!
+
+3 0 1 2 5
+Con riferimento alla Figura 6, quali di queste frasi sul mascheramento non tonale con rumore a banda larga sono vere:
+Test tone emessi con 60dB sono mascherati da rumore a 60dB
+Test tone emessi con 60dB sono mascherati da rumore a 50dB
+Test tone emessi con 60dB potrebbero essere mascherati da rumore a 40dB
+Test tone emessi con 60dB sono mascherati da rumore a 30dB
+Test tone emessi con 60dB sono mascherati da rumore a 20dB
+
+1 0 3
+Aiutandoti con la Figura 6, quali di queste frasi sul mascheramento non tonale con rumore a banda larga sono vere:
+Questo mascheramento mostra un comportamento lineare
+Questo mascheramento mostra un comportamento quadratico
+Questo mascheramento mostra un comportamento logaritmico
+
+1 3 5
+Aiutandoti con la Figura 6, in generale, il mascheramento non tonale con rumore a banda larga...
+Maschera meglio le basse frequenze
+Maschera meglio le frequenze medie
+Maschera meglio le alte frequenze
+Maschera in maniera simile tutte le frequenze
+Nessuna delle precedenti
+
+3 1 4 5 7
+Con riferimento alla Figura 7, quali di queste frasi sul mascheramento non tonale con rumore a banda stretta sono vere:
+Test tone di 5kHz emessi con 60dB sono mascherati da rumore a 80dB
+Test tone di 2kHz emessi con 40dB sono mascherati da rumore a 80dB
+Test tone di 0.5kHz emessi con 20dB sono mascherati da rumore a 60dB
+Test tone di 10kHz emessi con 20dB sono mascherati da rumore a 80dB
+Test tone di 10kHz emessi con 20dB sono mascherati da rumore a 100dB
+Test tone di 10kHz emessi con 30dB sono mascherati da rumore a 100dB
+Test tone di 10kHz emessi con 40dB sono mascherati da rumore a 100dB
+
+1 2 5
+Aiutandoti con la Figura 7, in generale, il mascheramento non tonale con rumore a banda stretta...
+Maschera meglio le basse frequenze
+Maschera meglio le frequenze medie
+Maschera meglio le alte frequenze
+Maschera in maniera simile tutte le frequenze
+Nessuna delle precedenti
+
+3 0 2 3 7
+Con riferimento alla Figura 8, quali di queste frasi sul mascheramento tonale con tono semplice sono vere:
+Test tone di 1.14kHz emessi con 30dB sono mascherati da rumore a 60dB
+Test tone di 1.14kHz emessi con 30dB sono mascherati da rumore a 50dB
+Test tone di 1.14kHz emessi con 20dB sono mascherati da rumore a 60dB
+Test tone di 1.14kHz emessi con 20dB sono mascherati da rumore a 50dB
+Test tone di 0.85kHz emessi con 30dB sono mascherati da rumore a 60dB
+Test tone di 0.85kHz emessi con 30dB sono mascherati da rumore a 50dB
+Test tone di 0.85kHz emessi con 30dB sono mascherati da rumore a 40dB
+
+1 1 5
+Aiutandoti con la Figura 8, in generale, il mascheramento tonale con tono semplice...
+Maschera sempre meglio le basse frequenze
+Maschera sempre meglio le frequenze medie
+Maschera sempre meglio le alte frequenze
+Maschera in maniera simile tutte le frequenze
+Nessuna delle precedenti
+
+1 1 2
+Confrontando mascheramento non tonale con rumore a banda stretta e mascheramento tonale con tono semplice, quale fra queste frasi e' vera?
+Il mascheramento tonale impone una soglia piu' alta, ma e' meno efficace per le alte frequenze
+Il mascheramento non tonale impone una soglia piu' alta, ma e' meno efficace per le alte frequenze
+
+2 0 3 4
+Nella "Tuning Curve" del mascheramento tonale con tono semplice...
+Il test tone e' fisso
+Il test tone e' variabile
+il masking tone e' fisso
+il masking tone e' variabile

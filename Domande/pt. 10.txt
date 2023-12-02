@@ -1,0 +1,81 @@
+2 1 2 4
+Individuare le affermazioni vere fra quelle in elenco:
+E' sempre meglio effettuare la fase di processing sul dato digitalizzato, perché non c'e' rischio di danneggiamento irreversibile
+Alcuni difetti nel dato registrato sono risolvibili piu' facilmente sul supporto fisico piuttosto che nella sua versione digitalizzata
+La rappresentazione analogica e' piu' adatta alla rappresentazione di suoni molto complessi
+Le apparecchiature di riproduzione di un audio analogico sono poco sofisticate e si trovano sempre facilmente in commercio
+
+3 1 4 6 9
+Quali sono i 3 componenti principali di un dispositivo di digitalizzazione?
+Equalizzatori
+Decoder
+Distorsori
+Noise Reduction Unit
+Campionatore
+Hard Disk
+Quantizzatore
+Casse audio
+Soldi, soldi e si, perché no, ancora soldi. Con quelli si puo' comprare tutto, quindi si puo' anche digitalizzare tutto no?
+
+3 3 5 6 7
+Quali fra questi sono dispositivi che hanno a che fare con la digitalizzazione?
+DC
+AC
+AC/DC
+DAC
+CAD
+ADC
+DAQ
+
+1 3 4
+La frequenza di Nyquist si trovera' verosimilmente...
+Fra le frequenze piu' basse
+Vicino la frequenza fondamentale
+Vicino la frequenza fantasma
+Fra le frequenze piu' alte
+
+1 1 2
+Il teorema del campionamento di Nyquist-Shannon afferma che...
+Per poter ricostruire fedelmente un segnale campionato e' necessario che il tasso di campionamento sia uguale o superiore al doppio della frequenza di Nyquist
+Per poter ricostruire fedelmente un segnale campionato e' necessario che il tasso di campionamento sia strettamente superiore al doppio della frequenza di Nyquist
+
+4 0 2 3 4 5
+Indicare le affermazioni vere riguardo al campionamento critico:
+Il campionamento critico si ottiene quando si campiona con tasso di campionamento esattamente uguale al doppio della frequenza di Nyquist
+Il campionamento critico e' sempre pericoloso
+Il campionamento critico puo' generare un segnale interpolato nullo
+Il campionamento critico puo' generare il silenzio
+Il campionamento critico e' facilmente eliminabile aumentando pochissimo il tasso di campionamento
+
+5 0 1 2 3 4 5
+Shannon e' ed e' stato...
+Il padre della teoria dell'informazione
+Giocoliere
+Inventore di una tromba lanciafiamme
+Dipendente delle Bell's Industries
+Collega di Albert Einstein
+
+1 0 2
+Campionare con il giusto tasso di campionamento non basta. Bisogna anche applicare un filtro...
+Filtro Passa-Basso
+Filtro Passa-Alto
+
+2 0 1 4
+L'aliasing e' dovuto a...
+Sottocampionamento
+Frequenze campionate sovrapposte alle frequenze originali del segnale
+Dispositivi ADC scadenti
+Campionamento Critico
+
+1 9 10
+Fra quelle indicate, quale potrebbe essere una buona frequenza di campionamento per un suono?
+100Hz
+500Hz
+1000Hz
+5000Hz
+10000Hz
+15000Hz
+20000Hz
+30000Hz
+40000Hz
+50000Hz

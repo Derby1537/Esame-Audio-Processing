@@ -1,0 +1,116 @@
+1 3 5
+Gli equalizzatori grafici sono un'implementazione su interfaccia di filtri...
+HPF
+LPF
+Shelving
+A campana
+Nessuna delle precedenti
+
+3 0 1 5 7
+Il filtro "Telefono"...
+Attenua le alte frequenze
+Attenua le basse frequenze
+Annulla le frequenze molto basse e molto alte
+Attenua tutte le frequenze diverse dall'intervallo [20Hz, 20.000Hz]
+Attenua tutte le frequenze diverse dall'intervallo [10dB, 130dB]
+Attenua tutte le frequenze diverse dall'intervallo [300Hz, 4.000Hz]
+Attenua tutte le frequenze diverse dall'intervallo [20Hz, 2.500Hz]
+
+2 2 4 5
+Il filtro "Midcut"...
+Ha  una forma a M
+Ha una forma a U
+Ha una forma a V
+Annulla totalmente le frequenze medie
+Amplifica le frequenze basse  e alte
+
+2 3 4 5
+A cosa e' dovuto l'effetto "Clipping"?
+Capacita' limitata del software di elaborazione audio
+Settaggi errati (di sicurezza) del software di elaborazione audio
+Scelte di ottimizzazione del software di elaborazione audio
+Un intervallo limitato di valori disponibili per rappresentare l'intensita'
+Alla codifica scelta
+
+1 1 2
+Il Fade-In e il Fade-Out sono due effetti che vanno inseriti, rispettivamente, all'inizio e alla fine di una traccia audio
+Vero
+Falso
+
+1 3 5
+Gli operatori sul range dinamico modificano...
+Fase
+Lunghezza d'onda
+Periodo
+Intensita'
+Frequenze dello spettro
+
+2 1 4 6
+Quali di queste frasi sull'operatore Compressore sono vere:
+Comprime tutte le ampiezze sotto una soglia fissata
+Diminuisce l'escursione dinamica del segnale
+Modifica solo i valori di ampiezza oltre la soglia
+Modifica i valori di ampiezza attorno alla soglia
+Modifica tutti i valori di ampiezza
+Puo' essere usato per restaurare una traccia audio scarsamente udibile
+
+1 1 5
+Rispetto al Grafico degli Operatori Dinamici (figura 9), in quale area si colloca l'operatore Espansore?
+A
+B
+C
+D
+E
+
+1 4 5
+Rispetto al Grafico degli Operatori Dinamici (figura 9), in quale area si colloca l'operatore che applica effetti simili al Clipping?
+A
+B
+C
+D
+E
+
+1 3 5
+Rispetto al Grafico degli Operatori Dinamici (figura 9), in quale area si colloca l'operatore Compressore?
+A
+B
+C
+D
+E
+
+1 2 5
+Rispetto al Grafico degli Operatori Dinamici (figura 9), in quale area si colloca l'operatore che lascia pressoche' invariato l'input?
+A
+B
+C
+D
+E
+
+1 0 5
+Rispetto al Grafico degli Operatori Dinamici (figura 9), in quale area si colloca l'operatore che attenua il rumore?
+A
+B
+C
+D
+E
+
+1 1 5
+Rispetto al Grafico degli Operatori Dinamici (figura 9), in quale area si colloca l'operatore che puo' essere usato per restaurare una traccia audio scarsamente udibile?
+A
+B
+C
+D
+E
+
+1 3 5
+Rispetto al Grafico degli Operatori Dinamici (figura 9), in quale area si colloca un operatore che puo' essere usato per aumentare il volume di una pubblicita'?
+A
+B
+C
+D
+E
+
+1 1 2
+E' possibile applicare un solo operatore alla volta per processare una traccia audio
+Vero
+Falso

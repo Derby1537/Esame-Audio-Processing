@@ -1,0 +1,106 @@
+3 1 2 3 5
+La compressione serve a...
+Ridurre i tempi di elaborazione
+Ridurre lo spazio di memoria occupato
+Ridurre i tempi di trasmissione
+Ridurre  i costi di trasmissione
+Ridurre la complessita' della trasmissione
+
+3 1 2 4 6
+La compressione del silenzio...
+E' una tecnica lossless
+E' una tecnica lossy
+Utilizza alcune soglie, fra cui la soglia sull'ampiezza
+Utilizza alcune soglie, fra cui la soglia sulla frequenza
+Utilizza alcune soglie, fra cui delle soglie di delay temporale
+E' facile da applicare, perche' e' facile individuare cosa sia silenzio
+
+1 1 3
+La soglia Tq (Threshold to quiet) indica:
+La soglia per individuare il silenzio (quiet) in una traccia audio
+La soglia minima di udibilita' nel grafico delle curve isofoniche
+Una soglia adattiva che cambia e si assesta durante il silenzio (in quiet)
+
+1 2 6
+Qual e' il bit-rate di una traccia audio di un segnale mono acquisito con tasso di campionamento pari a 44,1kHz e PCM lineare a 24bit?
+705.6kbps
+705.6Mbps
+1058kbps
+1058Mbps
+1420kbps
+1420Mbps
+
+3 0 5 8 9
+Le codifiche u-Law e A-Law...
+Sono Lossy
+Sono Lossless
+Sono state pensate per trasmissione su rete telefonica
+Sono state pensate per trasmissione su rete wireless
+Sono state pensate per trasmissione su rete ADSL
+Sono state pensate per trasmissione su rete ISDN
+Hanno un bit-rate di 705.6kbps
+Sfruttano una quantizzazione lineare
+Sfruttano una quantizzazione non lineare
+
+1 2 7
+Nella codifica u-Law, quanto vale la u?
+(2^2)-1
+(2^6)-1
+(2^8)-1
+(2^13)-1
+(2^14)-1
+(2^16)-1
+Nessuna delle precedenti
+
+3 1 4 7 8
+Nella codifica u-Law, la x...
+E' normalizzata fra 0 e 1
+E' normalizzata fra -1 e 1
+E' normalizzata fra 0 e -60dB
+Non e' normalizzata
+E' codificata con una codifica con segno
+E' codificata con una codifica senza segno
+Rappresenta un range continuo di valori
+Rappresenta un range discreto di valori
+
+1 4 6
+La Decodifica u-Law si basa principalmente su...
+Un logaritmo
+Una potenza
+Una derivata
+Un integrale
+Un esponenziale
+Un fattoriale
+
+1 1 3
+Nelle codifiche u-Law e A-Law avranno maggior precisione i valori di intensita' (rispetto a un range da -1 a 1)...
+Bassi (vicino -1)
+Medi (vicino 0)
+Alti (vicino 1)
+
+1 4 5
+Se disegnassimo la curva che mostra la Ri-quantizzazione da Quantizzazione uniforme a non uniforme nelle codifiche u-Law e A-Law, la curva avrebbe una forma...
+Lineare
+Esponenziale
+Logaritmica
+Sinusoidale
+A sigmoide
+
+1 2 5
+Quali fra queste affermazioni sulle codifiche u-Law e A-Law e' vera, confrontandole ad una quantizzazione uniforme?
+Si passa da 16 a 8 bit per u-Law e da 16 a 8 bit per la A-Law
+Si passa da 13 a 8 bit per u-Law e da 14 a 8 bit per la A-Law
+Si passa da 14 a 8 bit per u-Law e da 13 a 8 bit per la A-Law
+Si passa da 12 a 10 bit per u-Law e da 13 a 10 bit per la A-Law
+Nessuna delle precedenti
+
+4 0 3 4 7 8
+La PCM si puo' migliorare con...
+RLE (Run Length Encoding)
+Aumentando il numero di bit
+Usando una rappresentazione in esadecimale
+Differencing
+Prediction
+Usando la modulazione in frequenza
+Usando la modulazione in ampiezza
+LUT

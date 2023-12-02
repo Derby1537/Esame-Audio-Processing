@@ -1,0 +1,78 @@
+3 0 3 5 8
+Assumendo una PCM a 8 bit, quali fra queste sono possibili rappresentazioni per l'ampiezza?
+Da -128 a 127
+Da -32.768 a 32.767
+Da -8 a 7
+Da -1 a 1
+Da 0dB a -32dB
+Da 0dB a -48dB
+Da 0dB a -80dB
+Da 0dB a -96dB
+
+1 2 3
+Cosa accade alla durata di una traccia audio se aumento la frequenza di campionamento?
+Non abbiamo sufficienti elementi per rispondere
+La sua durata aumenta
+La sua durata diminuisce
+
+1 2 4
+Cosa accade se convertiamo un segnale stereo in un segnale mono?
+Perdiamo campioni
+Le ampiezze totali sono dimezzate
+Le ampiezze totali cambiano in funzione dei valori stereo originali
+L'approccio migliore e' alternare i campioni dei due canali stereo per creare quello mono
+
+1 2 5
+L'effetto Reverse...
+Inverte le ampiezze
+Inverte i dB
+Inverte l'ordine dei campioni
+Inverte le frequenze
+Si ottiene con CTRL+Z
+
+1 0 5
+L'effetto Inverse...
+Inverte le ampiezze
+Inverte i dB
+Inverte l'ordine dei campioni
+Inverte le frequenze
+Si ottiene con CTRL+Y
+
+5 2 3 4 5 6 7
+Gli equalizzatori (EQ) sono strumenti utili per...
+Equalizzare le ampiezze di un segnale
+Equalizzare i campioni di un segnale
+Equalizzare le frequenze di un segnale
+Correggere il timbro
+Modificare il contenuto armonico del segnale
+Creare nuovi effetti
+Eliminare il rumore
+
+1 2 3
+Un filtro LPF
+Attenua le basse frequenze
+Attenua le alte frequenze
+Nessuna delle precedenti
+
+1 1 2
+L'intensita' di attenuazione/guadagno (in dB) e' un parametro importante per un filtro HPF
+Vero
+Falso
+
+1 1 2
+I filtri Low-Shelving e High-Shelving sono come i filtri LPF e HPF, ma su valori positivi anziche' negativi
+Vero
+Falso
+
+7 0 1 2 4 6 7 8 10
+Nei filtri di peaking, quali delle seguenti affermazioni sulla Q sono vere?
+La Q e' detta "Bandwidth"
+La Q e' detta "Quality Factor"
+La Q indica la curtosi del filtro di peaking
+Se la Q e' alta il filtro e' molto piatto
+Se la Q e' alta il filtro e' molto appuntito (poco piatto)
+Se la Q e' alta il filtro di peaking "filtra piu' frequenze"
+Se la Q e' alta il filtro di peaking "filtra meno frequenze"
+La Q puo' essere adottata in un filtro semiparametrico, e fissata costante
+La Q puo' essere adottata in un filtro semiparametrico, e fissata proporzionale a un altro parametro
+La presenza di un valore Q impone che tutti i filtri di peaking siano simmetrici

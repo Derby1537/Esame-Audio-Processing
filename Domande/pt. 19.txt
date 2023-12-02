@@ -1,0 +1,62 @@
+2 0 3 4
+Quali di queste sono caratteristiche di una delay-tolerant network (DTN)?
+I collegamenti tra i nodi sono spesso instabili
+Si basa sempre sullo stack TCP/IP
+Collega le universita' italiane
+I ritardi di trasmissione possono raggiungere l'ordine dei minuti
+
+2 0 1 4
+Quali di questi sono elementi caratteristici di una delay-tolerant network (DTN)?
+Trasferimento di custodia
+Convergence layers
+Timbri identificativi per ogni nodo
+Frequenza di broadcast
+
+2 1 3 4
+Cos'e' un "timbro" all'interno di netdemic, la simulazione di delay-tolerant network (DTN)?
+Un equalizzatore parametrico
+Un'onda formata dal campionamento di 22000 valori di frequenza
+Il numero identificativo di un pacchetto
+L'impronta digitale univoca di un nodo, che lo distingue dagli altri
+
+2 0 3 4
+In ERAS, quali informazioni trasporta la componente armonica di un segnale audio?
+Melodia
+Suono impulsivo
+Ritmo
+Suono persistente
+
+2 0 2 4
+Cosa descrive meglio ERAS?
+E' un algoritmo di Machine Learning
+E' un algoritmo di Deep Learning
+E' un identificatore di emozioni percepite da un segnale audio
+E' un programma per l'audio editing
+
+2 0 2 4
+Quali di queste sono Audio features in ERAS?
+Zero crossing rates (ZCR)
+Spectral coefficient
+Mel-Frequency Cepstrum Coefficients (MFCCs)
+Mel-Frequency Centroid Covariance (MFCCs)
+
+2 2 3 4
+Quali sono le principali cause di perdita di trasmissione del suono nell'acqua?
+Perdita dovuta all'anomalia termica
+La diminuzione di velocita' del suono in acqua sotto determinate condizioni
+Lo scambio tra energia acustica ed energia termica
+Perdita dovuta alla divergenza per propagazione sferica e sferico-cilindrica
+
+2 0 3 4
+Per quanto riguarda la velocita' del suono in acqua, un grafo SVP:
+Le variazioni principali sono nella parte piu' in alto del grafo
+Le variazioni principali sono nella parte piu' in basso del grafo
+Non tiene conto delle variazioni di orario nella giornata oppure di stagione
+Misura la velocita' del suono in funzione della profondita'
+
+2 0 1 4
+La shadow zone, cioe' l'anomalia termica:
+e' una regione nella quale non arriva il suono in quanto esso viene rifratto in altre direzioni
+Si trova alla profondita' ottimale nella quale i sottomarini dovrebbero operare
+e' incalcolabile
+e' una zona dalla quale il suono non puo' uscire perche' rimane "intrappolato"
